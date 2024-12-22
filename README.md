@@ -12,3 +12,9 @@ This project is designed to extract specific information from invoice documents 
 
 - Python 3.x
 - Google Colab or a local Python environment
+
+## Installation
+
+To install the necessary packages, run:
+
+```pip install markitdown langchain-community langchain langchain_openai openai```
