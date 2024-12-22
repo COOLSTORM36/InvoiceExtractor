@@ -34,7 +34,7 @@ To install the necessary packages, run:
 
 - Ensure that your OpenAI API key is correctly set up in your environment.
 - Modify `filepath` to point to your actual invoice file location.
-- This project uses GPT-4; ensure you have access to this model via OpenAI.
+- This project uses GPT-4o; ensure you have access to this model via OpenAI.
 
 ## License
 
