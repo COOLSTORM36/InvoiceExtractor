@@ -6,7 +6,7 @@ This project is designed to extract specific information from invoice documents 
 
 - **Invoice Text Extraction**: Converts invoice files into text using `MarkItDown`.
 - **Information Parsing**: Uses LangChain to parse invoice text and extract structured information.
-- **OpenAI Integration**: Leverages OpenAI's GPT-4 model for natural language understanding.
+- **OpenAI Integration**: Leverages OpenAI's GPT-4o model for natural language understanding.
 
 ## Prerequisites
 
