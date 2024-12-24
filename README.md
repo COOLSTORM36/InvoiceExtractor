@@ -1,6 +1,6 @@
 # Invoice Extractor
 
-This project is designed to extract specific information from invoice documents using OpenAI's GPT-4 model via LangChain. The extracted information includes the invoice number, date, total amount, and vendor name.
+This project is designed to extract specific information from invoice documents using OpenAI's GPT-4o model via LangChain. The extracted information includes the invoice number, date, total amount, and vendor name.
 
 ## Features
 
